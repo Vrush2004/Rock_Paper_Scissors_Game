@@ -1,3 +1,3 @@
 ## Live Link
 
-[Rock_Paper_Scissors_Game](gamefor-rock-paper-scissors.netlify.app)
+[Rock-Paper-Scissors-Game](gamefor-rock-paper-scissors.netlify.app)
